@@ -1,0 +1,2 @@
+echo one is defined: cool
+one is defined: cool

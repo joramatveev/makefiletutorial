@@ -1,0 +1,4 @@
+echo "foo is defined"
+foo is defined
+echo "but bar is not"
+but bar is not

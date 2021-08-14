@@ -1,0 +1,2 @@
+echo "i was passed to MAKEFLAGS"
+i was passed to MAKEFLAGS

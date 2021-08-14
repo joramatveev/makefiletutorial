@@ -1,0 +1,4 @@
+echo "hello"
+hello
+echo "hello again"
+hello again

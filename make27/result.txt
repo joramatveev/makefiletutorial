@@ -1,0 +1,11 @@
+mkdir -p subdir
+echo "hello:\n\\techo \$(cooly)" | sed -e 's/^ //' > subdir/makefile
+---MAKEFILE CONTENTS---
+hello:
+	echo $(cooly)
+---END MAKEFILE CONTENTS---
+cd subdir && make
+make[1]: Entering directory '/tmp/makefiletutorial/make27/subdir'
+echo "The subdirectory can see me!"
+The subdirectory can see me!
+make[1]: Leaving directory '/tmp/makefiletutorial/make27/subdir'

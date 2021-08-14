@@ -1,0 +1,2 @@
+touch some_file
+touch clean

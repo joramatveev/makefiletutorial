@@ -1,0 +1,6 @@
+echo a.c b.c l.a c.c
+a.c b.c l.a c.c
+echo a.c b.c l.a c.c
+a.c b.c l.a c.c
+echo a.c b.c l.a c.c
+a.c b.c l.a c.c

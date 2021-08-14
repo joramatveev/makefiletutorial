@@ -1,0 +1,6 @@
+mkdir -p subdir
+printf "hello:\n\ttouch inside_file" | sed -e 's/^ //' > subdir/makefile
+cd subdir && make
+make[1]: Entering directory '/tmp/makefiletutorial/make26/subdir'
+touch inside_file
+make[1]: Leaving directory '/tmp/makefiletutorial/make26/subdir'

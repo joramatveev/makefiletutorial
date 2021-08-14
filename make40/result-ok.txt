@@ -1,0 +1,2 @@
+echo "foo equals ok"
+foo equals ok

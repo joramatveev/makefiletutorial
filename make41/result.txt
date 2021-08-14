@@ -1,0 +1,4 @@
+echo "foo is empty after being stripped"
+foo is empty after being stripped
+echo "nullstring doesn't even have spaces"
+nullstring doesn't even have spaces
